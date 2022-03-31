@@ -1,2 +1,2 @@
 #!/bin/bash
-imkdir /root/my_first_directory
+imkdir /temp/my_first_directory
