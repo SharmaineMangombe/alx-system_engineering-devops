@@ -1,2 +1,2 @@
 #!/bin/bash
-$PASH= /usr/*/action
+echo $PASH= /usr/*/action
