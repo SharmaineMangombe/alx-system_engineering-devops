@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -f -t | head -n 10 | xargs -n 1
+ls -f |sort -v| head -n 10 | xargs -n 1
